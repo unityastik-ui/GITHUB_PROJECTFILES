@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1a48a0c4a26d2144bf7ad44424e4d39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Black Units/Warrior/Warrior Black Animations/Warrior
+    Black.controller
+  uploadId: 844324

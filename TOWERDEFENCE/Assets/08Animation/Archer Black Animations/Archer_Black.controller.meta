@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 332f1f230deffb84db48b44f8138d00a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Black Units/Archer/Archer Black Animations/Archer_Black.controller
+  uploadId: 844324

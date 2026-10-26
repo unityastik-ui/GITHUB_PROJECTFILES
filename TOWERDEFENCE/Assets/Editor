@@ -1,0 +1,24 @@
+using UnityEngine;
+using UnityEditor;
+
+public static class ListActiveGameObjects
+{
+    [MenuItem("Tools/List Active GameObjects in Scene")]
+    public static void ListActive()
+    {
+        // Get all GameObjects in the current scene
+        GameObject[] allObjects = FindObjectsOfType<GameObject>();
+        int activeCount = 0;
+
+        foreach (GameObject go in allObjects)
+        {
+            if (go.activeInHierarchy)
+            {
+                Debug.Log($"Active GameObject: {go.name} (Active: {go.activeSelf}, Parent Active: {go.activeInHierarchy})");
+                activeCount++;
+            }
+        }
+
+        Debug.Log($"Total active GameObjects in scene: {activeCount}/{allObjects.Length}");
+    }
+}

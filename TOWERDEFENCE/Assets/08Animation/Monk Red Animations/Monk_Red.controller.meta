@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5014a44a9b0e09439f11ac9e9988ec0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Red Units/Monk/Monk Red Animations/Monk_Red.controller
+  uploadId: 844324

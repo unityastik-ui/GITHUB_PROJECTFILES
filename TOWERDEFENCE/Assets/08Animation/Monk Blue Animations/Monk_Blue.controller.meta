@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09dbebf08f30c0047844d5c7ff3fdc0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Blue Units/Monk/Monk Blue Animations/Monk_Blue.controller
+  uploadId: 844324

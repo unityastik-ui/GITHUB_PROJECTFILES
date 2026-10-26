@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ffec7d4864e8a243aa6912e0fa3d0c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352566
+  packageName: Tiny Swords
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Swords/Units/Blue Units/Archer/Archer Blue Animations/Archer_Blue.controller
+  uploadId: 844324
